@@ -92,6 +92,7 @@ console.log(markBMI2, johnBMI2, markHigherBMI2);
 
 console.log(`${country} is in ${continent} and its ${population} people speak ${language}!`)
 
+// a change has been made
 
 
 
